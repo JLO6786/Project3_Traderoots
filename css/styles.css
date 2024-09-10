@@ -1,0 +1,28 @@
+.card {
+  border: none;
+  border-radius: 15px;
+}
+
+.card-img-top {
+  border-radius: 15px 15px 0 0;
+  height: 184px;
+  width: 175px;
+  object-fit: cover;
+}
+
+.btn-outline-danger i,
+.btn-outline-secondary i {
+  font-size: 1.25rem;
+}
+
+footer {
+  border-top: 1px solid #ddd;
+}
+
+footer a {
+  font-size: 1.5rem;
+}
+
+.bg-success {
+    background-color: #90C32E;
+}
